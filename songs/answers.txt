@@ -1,0 +1,22 @@
+Average energy = 0.65906
+Average valence = 0.484443
+Average danceability = 0.71646
+
+I sorted the valence with DESC order and ASC order to find the middle values: 0.468 and 0.473
+I then find the medium of valence by finding the average of these two values: 0.4705
+
+I use the same method to find the medium of energy and danceability:
+Medium danceability = 0.733
+Medium energy = 0.678
+
+Comparing Medium values with Mean values, I've noticed that both danceability and energy have gone up
+whereus valence has gone down.
+
+Based on research:
+low energy/low valence songs are considered “sad”,
+low valence/high energy ones are “angry”,
+high valence and low energy are “calm”
+both high values are “happy”.
+
+This user might be angry? Energy has passed the midpoint 0.5 but valence is on the lower end.
+
